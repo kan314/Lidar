@@ -9,7 +9,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='kan314',
-    maintainer_email='kangood23626@gmail.com,
+    maintainer_email='kangood23626@gmail.com',
     description='My ROS 2 Python package',
     license='Apache License 2.0',
     entry_points={
